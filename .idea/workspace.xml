@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b89e70e-06fe-4369-bde4-fa7b0df12ea1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HospitalSystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctors.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AddToData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pojo/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pojo/Hospital.java" afterDir="false" />
-    </list>
+    <list default="true" id="6b89e70e-06fe-4369-bde4-fa7b0df12ea1" name="Changes" comment="Total System" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,10 +62,20 @@
       <option name="presentableId" value="Default" />
       <updated>1682682029109</updated>
     </task>
+    <task id="LOCAL-00001" summary="Total System">
+      <created>1682711581291</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682711581291</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Total System" />
+    <option name="LAST_COMMIT_MESSAGE" value="Total System" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
